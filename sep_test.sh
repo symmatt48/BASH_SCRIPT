@@ -4,5 +4,5 @@ ls -l
 
 ps aux
 
-uanme -r
+uname -r
 
